@@ -1,0 +1,2 @@
+# SkillsCompetitionPlatform
+SkillsCompetitionPlatform
